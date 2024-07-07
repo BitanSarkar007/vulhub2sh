@@ -17,7 +17,7 @@ CONTAINERS[0]="$DIRECTORY/log4j/CVE-2021-44228/docker-compose.yml"
 #CONTAINERS[2]="$DIRECTORY/elasticsearch/CVE-2015-1427/docker-compose.yml"
 #CONTAINERS[3]="$DIRECTORY/cmsms/CVE-2021-26120/docker-compose.yml" 
 #CONTAINERS[4]="$DIRECTORY/ffmpeg/CVE-2016-1897/docker-compose.yml"
-CONTAINERS[1]="$DIRECTORY/saltstack/CVE-2020-11651/docker-compose.yml"
+# CONTAINERS[1]="$DIRECTORY/saltstack/CVE-2020-11651/docker-compose.yml"
 
 # Randomly choose six vulnerable containers to start
 #random () {
